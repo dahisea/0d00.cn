@@ -45,7 +45,7 @@ body {
 
   #aplayer {
     transform: rotate(90deg);
-    right: unset;
+    right: -72.1px;
     left: 0;
   }
 }
