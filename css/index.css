@@ -4,7 +4,7 @@ body {
 }
 
 #bg,
-#tip {
+tip {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -44,8 +44,6 @@ body {
   }
 
   #aplayer {
-    transform: rotate(90deg);
-    right: -72.1px;
-    left: 0;
+    left: -72.1px;
   }
 }
